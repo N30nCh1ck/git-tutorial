@@ -10,9 +10,14 @@ body {
 #header {
   font-size: 32px;
   font-weight: 400;
+  color: tomato;
+  font-weight: 600;
 }
 
 .paragraph {
   font-size: 18px;
   color: #4a4a4a;
+  text-align: justify;
+  text-indent: 50px;
+  letter-spacing: 3px;
 }
